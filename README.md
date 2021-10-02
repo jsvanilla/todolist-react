@@ -1,4 +1,4 @@
-# To Do List in React Framework 📷
+# To Do List in React Framework 📝
 
 This is a simple To Do List created with React and Redux using an API. You can check all the CRUD.
 
